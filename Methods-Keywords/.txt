@@ -1,0 +1,10 @@
+# Your code here
+=begin
+BDD
+-program should receive input of temp in celcius 
+- convert temp to kelvin or fah
+Pseudo-code 
+- program receives temp as argurmrnt
+- check whether input is in fah or kelvin
+- Arithmetically convert the input appr
+=end

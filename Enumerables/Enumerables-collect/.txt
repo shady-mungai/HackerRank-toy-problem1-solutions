@@ -1,0 +1,9 @@
+=begin
+1.BDD
+- The program should take in a string and return its decoded equivalent
+- The program should replace each letter in the string with its 13th letter equivalent
+2.Pseudo-code
+- Receive input of a string 
+- Iterate through the string replavind each letter with its subsequent 13th
+- return the altered string
+=end

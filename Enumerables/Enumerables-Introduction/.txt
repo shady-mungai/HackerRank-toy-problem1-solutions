@@ -1,0 +1,15 @@
+
+BDD
+- The program should receive an object of colors
+- Iterate thru the colors adding each color into an array
+- Later return the array of color
+
+Pseudo-code
+
+start
+- Receive the colors object - receive colors as an argument of a method
+- Create an empty array - array = []
+- Iterate thru the colors object  - #each  
+- Add each color to the epty array - shovel operator
+- Return the new array - last line of the code block
+end

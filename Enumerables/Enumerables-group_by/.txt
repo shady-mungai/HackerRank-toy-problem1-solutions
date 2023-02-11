@@ -1,0 +1,22 @@
+=begin
+BDD
+- The program receive two arguements,a hash and a pass_mark
+- Hash(key of student names,value of marks obtained)
+- Check whether the students passed or failed,group them
+- Return a new hash with keys("failed" & "passed")
+Pseudo-code
+start
+1.The program receive two arguements,a hash and a pass_mark
+2.Iterate thru the hash checking whether values > pass_mark,
+3.Use the group_by to check the values of the hash since it returns a new hash
+4.Return a hash wuth keys "Failed" & "Passed"
+5.Convert symbol keys to strings
+end
+=end
+
+=begin
+ def group_by_marks(marks, pass_marks)
+     puts pass_marks
+     marks.group_by{|k,v| v <= pass_marks ? "Failed" : "Passed"}
+ end
+=end

@@ -1,0 +1,8 @@
+# Your code here
+=begin
+1.take([1,2,3], 1) - returns [2,3]
+- method takes two arguements,
+- 1,array starts from index"1" and includes the last element in the array(-1)
+2.take([1,2,3]) - returns [2,3]
+- takes one arguement,has default arguement!
+=end

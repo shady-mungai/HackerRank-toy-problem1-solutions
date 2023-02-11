@@ -1,0 +1,14 @@
+=begin
+1.BDD
+- Program should take in an object array and a skip integer
+- program should skip the number(skip) of elements
+- Program should retur the rest of the elem in the array
+2.Pseudo-code
+start
+- Receive an input of the array and skip 
+- ignore the (skip indices)in the array - 
+- print the array showing elemen's indices - #each_with_index
+- output the array without the skipped elements
+end
+
+=end
